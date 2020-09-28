@@ -78,7 +78,8 @@ namespace ObsceneWordsFilter
             {
                 "в",
                 "8",
-                "v"
+                "v",
+                "B"
             },
             ["г"] = new List<string>()
             {
